@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency('cucumber', '>= 3.2', '< 9')
   s.add_runtime_dependency('mime-types', ['~> 3.3'])
   s.add_runtime_dependency('nokogiri', '~> 1.10')
-  s.add_runtime_dependency('railties', ['>= 5.0', '< 8'])
+  s.add_runtime_dependency('railties', ['>= 5.0', '< 9'])
   s.add_runtime_dependency('rexml', '~> 3.0') # rexml is a bundled gem from ruby 3
   s.add_runtime_dependency('webrick', '~> 1.7') # webrick is a bundled gem from ruby 3
 
